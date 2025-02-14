@@ -1,0 +1,72 @@
+[
+    {
+        "id": "1",
+        "nome": "Aveia Gelada",
+        "ingredientes": [
+            {
+                "nome": "Aveia em flocos",
+                "quantidade": "50g"
+            },
+            {
+                "nome": "Banana",
+                "quantidade": "50g"
+            },
+            {
+                "nome": "Ma\u00e7a",
+                "quantidade": "50g"
+            },
+            {
+                "nome": "Whey",
+                "quantidade": "30g"
+            }
+        ],
+        "tempo_preparo": "5 minutos",
+        "calorias": 409,
+        "proteinas": 32,
+        "passo_a_passo": [
+            "Coloque as frutas picadas.",
+            "Coloque a aveia por cima.",
+            "Complete com agua.",
+            "Leve ao microondas por 3min.",
+            "Deixe na geladeira de um dia para o outro.",
+            "No momento de servir, misture separadamente o whey com pouca agua, para formar um creme e adicione por cima."
+        ],
+        "imagem": "https://pegar_uma_imagem_e_criar_a_pasta_no_onedrive_seus_boiolas"
+    },
+    {
+        "id": "2",
+        "nome": "Hamburgão Fitness",
+        "ingredientes": [
+            {
+                "nome": "Carne moida",
+                "quantidade": "50g"
+            },
+            {
+                "nome": "Massa de pastel",
+                "quantidade": "1unid"
+            },
+            {
+                "nome": "Ovo cozido",
+                "quantidade": "1unid"
+            },
+            {
+                "nome": "Requeijão sabor cheddar",
+                "quantidade": "1 colher sopa"
+            },
+            {
+                "nome": "Leite",
+                "quantidade": "15ml"
+            }
+        ],
+        "tempo_preparo": "5 minutos",
+        "calorias": 0,
+        "proteinas": 0,
+        "passo_a_passo": [
+            "Para fazer o cheddar, bata o ovo cozido com requeijão sabor cheddar e adicione leite, até ficar na consistencia desejada.",
+            "Adicione o cheddar na massa de pastel e coloque a carne moida por cima.",
+            "Feche bem a massa de paste, e passe uma gema de ovo por cima.",
+            "Leve a airfry por 6min a 180°."
+        ],
+        "imagem": "https://pegar_uma_imagem_e_criar_a_pasta_no_onedrive_seus_boiolas"
+    }
+]
